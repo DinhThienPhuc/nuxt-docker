@@ -1,8 +1,6 @@
-# Hello World with Nuxt.js
+# Nuxt Docker
 
-https://nuxtjs.org/examples
-
-# Docker Instruction
+Nuxt app deployed by Docker
 
 ```
 docker build -t <app-image> .
